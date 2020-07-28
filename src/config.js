@@ -14,4 +14,5 @@ export default {
     APP_CLIENT_ID: "18u6jmpea7k6n37h2f5f9llk3a",
     IDENTITY_POOL_ID: "us-west-2:f86ff6ce-ce41-492a-8780-cc4ee16a0b68",
   },
+  STRIPE_KEY: "pk_test_TEKhSD1MpqZGCM3AagRvcr4u",
 };
